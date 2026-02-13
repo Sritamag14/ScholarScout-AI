@@ -79,8 +79,10 @@ This orchestration ensures coordinated reasoning and a single, coherent outcome 
 ## Demo
 
 🎥 **Video Demo:**  
-[![ScholarScoutAI Demo](assets/scholarscoutai-demo.jpg)](https://vimeo.com/manage/videos/1164776640)
 
+[![ScholarScoutAI Demo](assets/scholarscoutai-demo.jpg)](https://vimeo.com/1164776640)
+
+**More details:** [Demo documentation](demo/README.md)
 
 ---
 
